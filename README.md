@@ -18,7 +18,7 @@ btckeygenie includes a lightweight Go package called btckey to easily generate
 keypairs, and convert them between compressed and uncompressed varieties of
 Bitcoin Address, Wallet Import Format, and raw bytes.
 
-See documentation on btckey here: https://godoc.org/github.com/vsergeev/btckeygenie/btckey
+See documentation on btckey here: https://godoc.org/github.com/HafeezRai/btckeygenie/btckey
 
 Donations are welcome at `15PKyTs3jJ3Nyf3i6R7D9tfGCY1ZbtqWdv` :-)
 
@@ -65,14 +65,14 @@ Donations are welcome at `15PKyTs3jJ3Nyf3i6R7D9tfGCY1ZbtqWdv` :-)
     $ btckeygenie -h
     Usage: btckeygenie [WIF/WIFC]
     
-    btckeygenie v1.0.0 - https://github.com/vsergeev/btckeygenie
+    btckeygenie v1.0.0 - https://github.com/HafeezRai/btckeygenie
     $
 
 ## Installation
 
 To fetch, build, and install btckeygenie to `$GOPATH/bin`:
 
-    $ go get github.com/vsergeev/btckeygenie
+    $ go get github.com/HafeezRai/btckeygenie
 
 ## License
 
